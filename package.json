@@ -1,9 +1,9 @@
 {
   "name": "tsuki",
   "version": "1.0.0",
-  "description": "powered by RYS Services",
+  "description": "powered by Sakuraa Studio",
   "main": "./index.js",
-  "author": "@confunce / @xaamder",
+  "author": "@w1nngs / @xaamder",
   "scripts": {
     "start": "node index.js"
   },
