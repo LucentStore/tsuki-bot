@@ -1,4 +1,4 @@
-# 🤖 RIFT Services – Ticket System
+# 🤖 Sakura Studio – Ticket System
 
 This is a Discord bot featuring a ticket system with transcripts and an blacklist system.
 
@@ -47,4 +47,4 @@ This is a Discord bot featuring a ticket system with transcripts and an blacklis
 npm run start
 ```
 
-system powered by @rift-services
+system powered by @sakuraa-studio
