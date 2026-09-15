@@ -1,4 +1,4 @@
-# 🤖 Sakura Studio – Ticket System
+# 🤖 Lucent Store – Ticket System
 
 This is a Discord bot featuring a ticket system with transcripts and an blacklist system.
 
@@ -32,7 +32,7 @@ This is a Discord bot featuring a ticket system with transcripts and an blacklis
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sakuraa-Studio/tsuki-bot.git
+   git clone https://github.com/LucentStore/tsuki-bot.git
    cd your-folder
    ```
 
@@ -47,4 +47,4 @@ This is a Discord bot featuring a ticket system with transcripts and an blacklis
 npm run start
 ```
 
-system powered by @sakuraa-studio
+system powered by @ Lucent Store
